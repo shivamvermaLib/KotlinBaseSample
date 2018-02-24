@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/KotlinBaseSample.iml" filepath="$PROJECT_DIR$/KotlinBaseSample.iml" />
+      <module fileurl="file://G:\Shivam2\MyProjects\baseutilskotlin\KotlinBaseSample.iml" filepath="G:\Shivam2\MyProjects\baseutilskotlin\KotlinBaseSample.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/baseutils/baseutils.iml" filepath="$PROJECT_DIR$/baseutils/baseutils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/baseutilskotlin.iml" filepath="$PROJECT_DIR$/.idea/baseutilskotlin.iml" />
     </modules>
   </component>
 </project>
